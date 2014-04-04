@@ -10,7 +10,7 @@ You can join in by creating a folder with your name and posting solutions for th
 
 The expected filename is being used just so that we would have consistent naming across the board.
 
-Disagree with a filename, want to add a problem.. It is just a pull request away.
+Disagree with a filename, want to add a question that you think deserves to be solved.. You are always welcome to send in a pull request.
 
 Questions:
 
