@@ -1,4 +1,4 @@
-A backtracking solution to the (8 queens puzzle)[http://en.wikipedia.org/wiki/Eight_queens_puzzle].
+A backtracking solution to the [8 queens puzzle](http://en.wikipedia.org/wiki/Eight_queens_puzzle).
 
 Sample output for `n=4`,
 
