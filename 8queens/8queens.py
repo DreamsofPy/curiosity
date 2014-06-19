@@ -4,18 +4,15 @@ def conflict(board, i):
     n = len(board)
     cur_pos = board[i] # Compare all other positions to this
 
-    # Scan vertically
-    for pos in board[:i]:
+    # Depending on which row we're comparing to, there can be a conflict
+    for row, pos in enumerate(board[:i]):
+        # Vertically
         if pos == cur_pos:
-            # This means we are in the same column
             print '|'
             return True
 
-    # Scan diagonally
-    for row, pos in enumerate(board[:i]):
-        # Depending on which row we're comparing to, there can be a conflict
+        # Diagonally
         if abs(row-i)==abs(cur_pos-pos):
-            # We have a conflict
             print '\\'
             return True
 
