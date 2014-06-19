@@ -14,8 +14,10 @@ Disagree with a filename, want to add a question that you think deserves to be s
 
 Questions:
 
-1) http://www.problemotd.com/problem/word-ladder/
-   **Expected filename**: word_ladder
 
-2) https://projecteuler.net/problem=45
+1. http://en.wikipedia.org/wiki/Eight_queens_puzzle
+    **Expected filename**: 8queens
+2. http://www.problemotd.com/problem/word-ladder/
+   **Expected filename**: word_ladder
+3. https://projecteuler.net/problem=45
    **Expected filename**: triangle_number
