@@ -17,7 +17,9 @@ Questions:
 
 1. http://en.wikipedia.org/wiki/Eight_queens_puzzle
     **Expected filename**: 8queens
-2. http://www.problemotd.com/problem/word-ladder/
+2. http://en.wikipedia.org/wiki/Maximum_subarray_problem
+    **Expected filename**: maximum_subarray
+3. http://www.problemotd.com/problem/word-ladder/
    **Expected filename**: word_ladder
-3. https://projecteuler.net/problem=45
+4. https://projecteuler.net/problem=45
    **Expected filename**: triangle_number
