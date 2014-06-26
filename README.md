@@ -19,7 +19,5 @@ Questions:
     **Expected filename**: 8queens
 2. http://en.wikipedia.org/wiki/Maximum_subarray_problem
     **Expected filename**: maximum_subarray
-3. http://www.problemotd.com/problem/word-ladder/
-   **Expected filename**: word_ladder
-4. https://projecteuler.net/problem=45
-   **Expected filename**: triangle_number
+3. Using two stack recreate a queue
+    **Expected filename**: two_stacks_q
