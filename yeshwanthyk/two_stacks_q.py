@@ -12,3 +12,7 @@ class Queue:
             for i in xrange(len(self.stack1)):
                 self.stack2.append(self.stack1.pop())
         print self.stack2.pop()
+        try:
+            print self.stack2.pop()
+        except IndexError:
+            print "No more elements in the queue"
